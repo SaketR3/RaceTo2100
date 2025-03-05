@@ -1,4 +1,5 @@
 # Race To 2100
+## Addressing the NAE Grand Engineering Challenge of Sustainability 
 
 This resource management game takes the user on a journey from the year 2000 to 2100. The game allows the player to allocate their funds towards different types of energy sources.
 
