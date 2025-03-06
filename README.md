@@ -1,5 +1,6 @@
 # Race To 2100
 ## Addressing the NAE Grand Engineering Challenge of Sustainability 
+### Civilization VI meets Stardew Valley meets environmentalism!  
 
 Starting environment:
 
